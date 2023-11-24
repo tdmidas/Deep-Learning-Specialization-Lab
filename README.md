@@ -6,6 +6,7 @@ Welcome to the GitHub repository for the Deep Learning Specialization course on 
 
 This repository documents my journey in learning Deep Learning through the "Deep Learning Specialization" course offered on Coursera. The course is instructed by Andrew Ng and provides a comprehensive introduction to the field of Deep Learning, Computer Vision and Natural Language Processing.
 ## My certificate
+![](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~NBUWLRXTGXTE/CERTIFICATE_LANDING_PAGE~NBUWLRXTGXTE.jpeg)
 ### Machine Learning Specialization 
 
 - Course 1: Neural Networks and Deep Learning
